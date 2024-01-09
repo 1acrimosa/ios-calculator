@@ -1,1 +1,1 @@
-# ios-calculator
+# Calculator for iOS
